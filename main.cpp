@@ -13,7 +13,7 @@ int main()
 
 
     // !!! With this, the next loop runs faster.
-    std::sort(data, data + arraySize);
+    //std::sort(data, data + arraySize);
 
 
     // Test
